@@ -1,4 +1,4 @@
-# BAI_TAP_NHOM
+# BÀI_TẬP_NHÓM
 
 ĐỀ TÀI: QUẢN LÝ HỒ SƠ SINH VIÊN TRƯỜNG ĐẠI HỌC THÔNG TIN LIÊN LẠC 
 
