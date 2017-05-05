@@ -1,2 +1,13 @@
 # BAI_TAP_NHOM
-Xây dựng phần mềm quản lý hồ sơ sinh viên trường Đại Học Thông Tin Liên Lạc
+
+ĐỀ TÀI: QUẢN LÝ HỒ SƠ SINH VIÊN TRƯỜNG ĐẠI HỌC THÔNG TIN LIÊN LẠC 
+
+Chức Năng Ứng Dụng Quản Lí Hồ Sơ Sinh Viên Trường Đại Học Thông Tin Liên Lạc:
+
+- Giúp tổng hợp tất cả thông tin , quản lí toàn bộ thông tin sinh viên trường Đại Học Thông Tin Liên Lạc từ lúc nhập học đến lúc ra trường.
+
+- Hỗ trợ tìm kiếm thông tin sinh viên.
+
+- Thêm mới, thay đổi thông tin sinh viên.
+
+- Tra Cứu Điểm của từng sinh viên.
